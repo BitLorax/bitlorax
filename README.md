@@ -1,3 +1,3 @@
-### Hello! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="24">
+### Hello!
 
-I'm Will, a computer science student at the University of Pennsylvania. My main interests are computer vision and reinforcement learning.
+I'm Will, a computer science student at the University of Pennsylvania. Here's my [website](https://willjhliang.github.io), [linkedin](https://www.linkedin.com/in/willjhliang/), and [google scholar](https://scholar.google.com/citations?user=K-2OXMIAAAAJ&hl=en).
